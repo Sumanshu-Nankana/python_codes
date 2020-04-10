@@ -1,0 +1,24 @@
+{
+    "states": [
+        {
+            "name": "Alabama",
+            "abbrevation": "AL",
+            "area_code": ["205","201","256","334","938"]
+        },
+        {
+            "name": "Alska",
+            "abbrevation": "AK",
+            "area_code": ["907"]
+        },
+        {
+            "name": "Arizona",
+            "abbrevation": "AZ",
+            "area_code": ["480","520","602","623","928"]
+        },
+        {
+            "name": "Arkansas",
+            "abbrevation": "AR",
+            "area_code": ["479","501","870"]
+        }
+    ]
+}

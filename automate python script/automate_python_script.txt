@@ -1,0 +1,27 @@
+1 - Create a account on https://www.pythonanywhere.com
+2 - sumanshu / Waheguruji@2020
+3 - Go to Files Tab
+4 - Upload Or Give any name to file to create new
+5 - Save and Run (to make sure it's working fine)
+
+
+=========================================
+Like I created 'test.py'
+
+from datetime import datetime
+
+with open(datetime.now().strftime("%d-%m-%Y"),'w') as file:
+    file.write("We automated this using pythonanywhere")
+    
+    
+which is creating a new file with Date Name and writing some content into that
+============================================
+
+Now to schedule it
+
+1 - Open the file
+2 - Copy the directory path  (example - /home/sumanshu/test.py)
+3 - Go to Tasks
+4 - Give the directory path copied in step-2
+5 - Specify the time - on which time - we want to run this script
+6 - Click on Create
