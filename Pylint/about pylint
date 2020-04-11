@@ -1,0 +1,7 @@
+1- Pylint - is a quality checker of Python Programming Language.
+2- It follows the style recommended by PEP 8, the Python style guide  (https://www.python.org/dev/peps/pep-0008/)
+3- It can be used as a stand-alone program, but also integrates with IDEs 
+4- sudo apt-get install pylint (to install in Ubunutu)
+5- We can run this (when we want to perform some automated tests) - to check if code is matching some coding standards
+
+Pylinter basically inspect our python code, and gives the feedback based on PEP8 coding standards
